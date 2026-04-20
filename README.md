@@ -1,4 +1,3 @@
-# gigasxx
 <table border="0">
   <tr>
     <td style="padding: 10px;">
